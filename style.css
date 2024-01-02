@@ -8,9 +8,5 @@ body {
 }
 
 li .pad {
-  margin: 20px;
-}
-
-li .marg {
-  margin: 20px;
+  margin-top: 20px;
 }

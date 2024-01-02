@@ -6,3 +6,11 @@ body {
   width: 1000px;
   height: auto;
 }
+
+li .pad {
+  margin: 20px;
+}
+
+li .marg {
+  margin: 20px;
+}

@@ -13,30 +13,33 @@ li .pad {
 
 .box {
   border: 5px solid black;
-  height: 100px;
+  height: 200px;
   width: 300px;
   padding: 50px;
   box-sizing: border-box;
   background-color: chartreuse;
   display: inline-block;
+  margin-left: 50px;
 }
 
 .boxx {
   border: 5px solid black;
-  height: 100px;
+  height: 200px;
   width: 300px;
   padding: 50px;
   box-sizing: border-box;
   background-color: orchid;
   display: inline-block;
+  margin-left: 50px;
 }
 
 .boxxx {
   border: 5px solid black;
-  height: 100px;
+  height: 200px;
   width: 300px;
   padding: 50px;
   box-sizing: border-box;
   background-color: red;
   display: inline-block;
+  margin-left: 50px;
 }

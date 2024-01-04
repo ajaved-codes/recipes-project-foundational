@@ -15,31 +15,34 @@ li .pad {
   border: 5px solid black;
   height: 200px;
   width: 300px;
-  padding: 50px;
+  padding: 100px;
   box-sizing: border-box;
   background-color: chartreuse;
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 100px;
+  text-align: center;
 }
 
 .boxx {
   border: 5px solid black;
   height: 200px;
   width: 300px;
-  padding: 50px;
+  padding: 100px;
   box-sizing: border-box;
   background-color: orchid;
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 100px;
+  text-align: center;
 }
 
 .boxxx {
   border: 5px solid black;
   height: 200px;
   width: 300px;
-  padding: 50px;
+  padding: 100px;
   box-sizing: border-box;
   background-color: red;
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 100px;
+  text-align: center;
 }
